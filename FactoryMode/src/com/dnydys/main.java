@@ -2,9 +2,6 @@ package com.dnydys;
 
 import com.dnydys.factory.Foxconn;
 import com.dnydys.service.AirPords;
-import com.dnydys.service.impl.AirPords2;
-import com.dnydys.service.impl.AirPords3;
-import com.dnydys.service.impl.AirPordsPro;
 
 /**
  * @Classname main
