@@ -1,9 +1,9 @@
-package com.dnydys.service.impl;
+package com.dnydys.airPords.impl;
 
-import com.dnydys.service.AirPords;
+import com.dnydys.airPords.AirPords;
 
 /**
- * @Classname AirPords2
+ * @Classname Iphone13
  * @Description airpords2代
  * @Date 2021/12/23 22:30
  * @Created by hasee

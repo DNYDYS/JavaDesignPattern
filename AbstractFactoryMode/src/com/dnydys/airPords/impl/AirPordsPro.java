@@ -1,9 +1,9 @@
-package com.dnydys.service.impl;
+package com.dnydys.airPords.impl;
 
-import com.dnydys.service.AirPords;
+import com.dnydys.airPords.AirPords;
 
 /**
- * @Classname AirPordsPro
+ * @Classname IPhone13ProMAX
  * @Description TODO
  * @Date 2021/12/23 22:42
  * @Created by hasee
